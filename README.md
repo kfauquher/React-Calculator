@@ -1,4 +1,4 @@
-Explanation of Code
+Description of Code
 
 -res is a variable that will hold the result of the calculation, while setResult will be used to store the new value of the variable after it's been changed by one of the functions.
 
