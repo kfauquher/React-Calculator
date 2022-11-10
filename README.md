@@ -11,3 +11,5 @@ Description of Code
 -Handler() takes an argument (arg) which is either C or ENTER.
 
 -If argument is C, then findvalue() will just return the value stored in res; otherwise, it'll call setResult with argument as its new value and store the result in setResult.
+
+-There is a buttons element which maps each button on the screen to its corresponding handler function and its associated value.
