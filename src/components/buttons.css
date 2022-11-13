@@ -33,7 +33,7 @@
     }
 
 
-@media all and (max-width: 470px) {
+@media all and (max-width: 500px) {
     .calc_buttons {
         height: 70px;
         width: 70px;
